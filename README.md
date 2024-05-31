@@ -36,6 +36,6 @@ To retrieve the top K articles most similar to the question, we used the argsort
 
 ## Bonus Task 5: Format your test data in the SQuAD-2 json format
 
-For the final task we prepared our test data from tasks 2+3 in the valid json format for SQuADv2 and made it loadable as a dataset which can be distributed as a small QA test set. This needed some format reverse engineering, and learning how the dataset loading works in HuggingFace.
+For the final task we prepared our test data from tasks 2+3 in the valid json format for SQuADv2 and made it loadable as a [dataset](custom-QA-dataset.json) which can be distributed as a small QA test set. This needed some format reverse engineering, and learning how the dataset loading works in HuggingFace.
 
 
