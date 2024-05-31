@@ -1,0 +1,142 @@
+[
+    {
+        "answers": {
+            "answer_start": [
+                37
+            ],
+            "text": [
+                "£34.3m"
+            ]
+        },
+        "context": "\"Salah joined Liverpool from Roma for £34.3m on a five-year deal in 2017, and has gone on to make 104 appearances in all competitions for the club, scoring 71 goals.",
+        "id": "0001",
+        "question": "How much was Salah offered to join Liverpool?",
+        "title": "Salah"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                117
+            ],
+            "text": [
+                "18.9 per cent"
+            ]
+        },
+        "context": "\"A study produced by Stanford University in the USA has found that since Salah signed for Liverpool there has been an 18.9 per cent drop in the number of hate crimes in the Merseyside area, and the number of anti-Muslim tweets posted by the club's supporters has halved.",
+        "id": "0002",
+        "question": "By what percent the number of hate crimes dropped in the Merseyside area?",
+        "title": "A study by Stanford University"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                88
+            ],
+            "text": [
+                "a drop from 7.2 per cent to 3.4 per cent"
+            ]
+        },
+        "context": "\"We also find that Liverpool F.C. fans halved their rates of posting anti-Muslim tweets (a drop from 7.2 per cent to 3.4 per cent of tweets about Muslims) relative to fans of other top-flight English soccer clubs.",
+        "id": "0003",
+        "question": "How much was the drop precentage in the anti-muslim tweets?",
+        "title": "Liverpool"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                0
+            ],
+            "text": [
+                "Angelina Tracy"
+            ]
+        },
+        "context": "\"Angelina Tracy in January started as WOCCU’s Vice President of Strategic Growth and Partnerships. In this newly developed role, Tracy will work to grow WOCCU International Projects’ relationship with USAID and other institutional donors and partners to build on current development strategies and promote innovations to expand our work globally. Tracy brings nearly 20 years of experience in providing strategic guidance to achieve business development goals, most recently serving in the cooperative sector at Land O’Lakes Venture37.",
+        "id": "0004",
+        "question": "Who started as WOCCU’s Vice President of Strategic Growth and Partnerships in January?",
+        "title": "WOCCU’s Vice President of Strategic Growth and Partnerships"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                586
+            ],
+            "text": [
+                "empowering wellness worldwide"
+            ]
+        },
+        "context": "\"The GWI’s research and executive team worked closely with BBC StoryWorks’ producers on the series, helping to ground it in research and evidence. The non-profit GWI tapped its global network of wellness leaders by issuing a “Call for Stories” in 2021, and worked with BBC StoryWorks to identify individuals and organizations taking a creative and inclusive approach to wellness. The series is expected to reach tens of millions of people globally and generate 80 million impressions on BBC.com during the 12-month digital campaign, vastly expanding the GWI’s community and mission of “empowering wellness worldwide.” The series premiered on November 1 at the 2022 Global Wellness Summit in Tel Aviv.",
+        "id": "0005",
+        "question": "What is the mission of GWI?",
+        "title": "GWI’s"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                186
+            ],
+            "text": [
+                "the Social Democratic Party (SDP)"
+            ]
+        },
+        "context": "\"Voter backing for the opposition National Coalition Party (NCP) — which has consistently topped Yle's regular poll since 2021 — fell by 1.4 percentage points to 21.6 percent. Meanwhile, the Social Democratic Party (SDP), led by Prime Minister Sanna Marin, saw its support rise slightly to 19.1 percent.",
+        "id": "0006",
+        "question": "Which party is led by Prime Minister Sanna Marin?",
+        "title": "Politics"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                129
+            ],
+            "text": [
+                "Tory Burch and Gap"
+            ]
+        },
+        "context": "\"Atlantic-Pacific creator Blair Eadie has been in the fashion industry for several years now. Having worked for companies such as Tory Burch and Gap, she has the insider’s experience in how the industry has evolved over the years. She started Atlantic-Pacific in 2010 to showcase her own fashion aesthetic, which she describes as “east-coast-meets-west-coast.” She has built up a significant social media following, including over 1.9 million Instagram followers.",
+        "id": "0007",
+        "question": "Which companies Blair Eadie worked for?",
+        "title": "Blair Eadie"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                185
+            ],
+            "text": [
+                "349 million people"
+            ]
+        },
+        "context": "\"The International Panel of Experts on Sustainable Food Systems (IPES-Food) released a special report sounding the alarm on global food insecurity and debt crises. The report finds that 349 million people are facing acute starvation and many more will experience hunger with food prices remaining at historic highs and countries failing to meet debt repayments.",
+        "id": "0008",
+        "question": "How many people are facing acute starvation?",
+        "title": "Sustainable Food Systems"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                27
+            ],
+            "text": [
+                "the Christian Democrats (CD)"
+            ]
+        },
+        "context": "\"On the opposition benches, the Christian Democrats (CD) saw a 1.1 percentage point bump in support, with Turja noting that many previous Finns Party voters have now pledged their support to CD. Support for smaller parties — including the Liberal Party, the Pirate Party and Power Belongs to the People — now stands at 2.7 percent following a rise of over one percentage point.",
+        "id": "0009",
+        "question": "Which party saw a 1.1 percentage point bump in support?",
+        "title": "Political"
+    },
+    {
+        "answers": {
+            "answer_start": [
+                0
+            ],
+            "text": [
+                "The cast of Problemista"
+            ]
+        },
+        "context": "\"The cast of Problemista descended upon SXSW 2023 to support the release of Julio Torres’ debut film. Tilda Swinton, RZA, Isabella Rossellini, Larry Owens, Catalina Saavedra, Greta Lee, and Julio Torres all star in this film and took time out of their schedules to answer fan questions. I was lucky enough to attend the premiere in Austin and captured the event for us all to watch below:",
+        "id": "0010",
+        "question": "Who descended upon SXSW 2023 to support the release of Julio Torres’ debut film?",
+        "title": "Problemista"
+    }
+]
